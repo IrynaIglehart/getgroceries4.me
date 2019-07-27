@@ -1,6 +1,6 @@
 # Hello,
 
-My name is Iryna - I am currently researching how to provide the best grocery delivery service for people.
+My name is Iryna - I am currently researching how to provide the best grocery delivery service for people.  This service is free of charge... for now.
 
 ## My Goal:
 
