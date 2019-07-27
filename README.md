@@ -2,7 +2,7 @@
 
 My name is Iryna - I am currently researching how to provide the best grocery delivery service for people.
 
-## My Goal
+## My Goal:
 
 Simply put, I want to do your grocery shopping for you - and when it's done, it's like you went shopping yourself... except, you didn't - you saved all of that time because I took care of all the little details for you.
 
